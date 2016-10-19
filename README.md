@@ -29,6 +29,3 @@ Harris :
 *benchmark
 
 
-
-
-# Publications
