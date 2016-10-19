@@ -17,16 +17,16 @@ systems.
 
 # Software
 
-*kernel
+## kernel
 
 LDU(global queue) : 
-<pre>git clone https://github.com/linux-ldu/scalablelinux -b v4.5-rc6-IPDPS2017-anon_LDU_P-file_LDU_P</pre>
-
+<pre>git clone https://github.com/manycore-ldu/linux -b v4.5-rc6-ldu-global-queue</pre>
 LDU(per-core queue) :
-
+<pre>git clone https://github.com/manycore-ldu/linux -b v4.5-rc6-ldu-per-core-queue</pre>
 Harris : 
+<pre>git clone https://github.com/manycore-ldu/linux -b v4.5-rc6-harris</pre>
 
 
-*benchmark
+## benchmark
 
 
