@@ -26,6 +26,8 @@ LDU(per-core queue) :
 Harris : 
 <pre>git clone https://github.com/manycore-ldu/linux -b v4.5-rc6-harris</pre>
 
+*anonymous mapping : mm/rmap.c
+*file mapping : mm/mmap.c
 
 ## benchmark : https://github.com/manycore-ldu/benchmark
 
