@@ -19,7 +19,8 @@ systems.
 
 *kernel
 
-LDU(global queue) : git clone https://github.com/linux-ldu/scalablelinux -b v4.5-rc6-IPDPS2017-anon_LDU_P-file_LDU_P
+LDU(global queue) : 
+<pre>git clone https://github.com/linux-ldu/scalablelinux -b v4.5-rc6-IPDPS2017-anon_LDU_P-file_LDU_P</pre>
 
 LDU(per-core queue) :
 
