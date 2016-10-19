@@ -17,7 +17,7 @@ systems.
 
 # Software
 
-## kernel
+## kernel : https://github.com/manycore-ldu/linux
 
 LDU(global queue) : 
 <pre>git clone https://github.com/manycore-ldu/linux -b v4.5-rc6-ldu-global-queue</pre>
